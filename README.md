@@ -4,6 +4,8 @@ Do you like printing test page? I DO! And default Solus test page is not really 
 
 **NOTE**: This is not officially endorse by Solus Project team in any way.
 
+![Solus Test Page Example](http://i.imgur.com/N66NXXe.png)
+
 ## Feature
 
 - CMYK and RGB color checker
